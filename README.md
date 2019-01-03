@@ -1,5 +1,5 @@
-|[Sponsors](http://mcelroystudio.com/sponsors.html)| [Social Media](http://mcelroystudio.com/social-media.html)| [Schedule](http://mcelroystudio.com/schedule.html)|
-|---|---|---|
+#### | [Home](http://mcelroystudio.com/) | [Sponsors](http://mcelroystudio.com/sponsors.html) | [Social Media](http://mcelroystudio.com/social-media.html) | [Schedule](http://mcelroystudio.com/schedule.html) |
+
 
 # mcelroystudio
 ![image](https://user-images.githubusercontent.com/10615650/43430650-940e6bc6-942f-11e8-88ae-958b5d6a315f.png)
