@@ -1,5 +1,5 @@
-|[Sponsors](http://mcelroystudio.com/sponsors)|
-|---|
+|[Sponsors](http://mcelroystudio.com/sponsors.html)| [Social Media](http://mcelroystudio.com/social-media.html)
+|---|---|
 
 # mcelroystudio
 ![image](https://user-images.githubusercontent.com/10615650/43430650-940e6bc6-942f-11e8-88ae-958b5d6a315f.png)
@@ -8,18 +8,6 @@
 While growing up in Southern California, becoming a professional athlete was always the goal for Matt McElroy. His passion for running developed at an early age after joining the track and cross-country teams in 6th grade. After placing 2nd at the 2009 Foot Locker Cross Country Nationals, Matt would focus on further developing his career as an athlete.
 
 At Northern Arizona University, Matt found an alternative training methodology, which allowed him to become more mentally aware of his body and the type of training needed to stay healthy and be successful. Incorporating cross training into his run training led him to discover his true direction – triathlon. Ever since, Matt has put in the yards in the pool and miles on the road. Now, as a young professional triathlete with an ITU World Championship and FIVE ITU World Cup podiums, his dreams and career are targeted squarely at Tokyo 2020.
-
-#### Social Media
-
-[Twitter](https://twitter.com/mcelroystudio?lang=en) **@mcelroystudio**
-<a class="twitter-timeline" href="https://twitter.com/mcelroystudio?ref_src=twsrc%5Etfw">Tweets by @mcelroystudio</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[YouTube](https://www.youtube.com/channel/UClO8u4gtYB6nlR2xgfkUj9Q) **matthew james**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FWeX6oyFPGk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-[Vimeo](https://vimeo.com/user23249587) **Matt Mcelroy studio .**
-<iframe src="https://player.vimeo.com/video/83200478" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/83200478">Matt Mcelroy studio .</a> from <a href="https://vimeo.com/user23249587">Matt Mcelroy</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## SCHEDULE
 July 14 World Triathlon Hamburg
