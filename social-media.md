@@ -1,3 +1,5 @@
+#### | [Home](http://mcelroystudio.com/) | [Sponsors](http://mcelroystudio.com/sponsors.html) | [Social Media](http://mcelroystudio.com/social-media.html) | [Schedule](http://mcelroystudio.com/schedule.html) |
+
 # Social Media
 
 [Twitter](https://twitter.com/mcelroystudio?lang=en) **@mcelroystudio**
