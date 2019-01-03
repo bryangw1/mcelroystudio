@@ -1,5 +1,5 @@
-|[Sponsors](http://mcelroystudio.com/sponsors.html)| [Social Media](http://mcelroystudio.com/social-media.html)
-|---|---|
+|[Sponsors](http://mcelroystudio.com/sponsors.html)| [Social Media](http://mcelroystudio.com/social-media.html)| [Schedule](http://mcelroystudio.com/schedule.html)|
+|---|---|---|
 
 # mcelroystudio
 ![image](https://user-images.githubusercontent.com/10615650/43430650-940e6bc6-942f-11e8-88ae-958b5d6a315f.png)
@@ -8,27 +8,6 @@
 While growing up in Southern California, becoming a professional athlete was always the goal for Matt McElroy. His passion for running developed at an early age after joining the track and cross-country teams in 6th grade. After placing 2nd at the 2009 Foot Locker Cross Country Nationals, Matt would focus on further developing his career as an athlete.
 
 At Northern Arizona University, Matt found an alternative training methodology, which allowed him to become more mentally aware of his body and the type of training needed to stay healthy and be successful. Incorporating cross training into his run training led him to discover his true direction – triathlon. Ever since, Matt has put in the yards in the pool and miles on the road. Now, as a young professional triathlete with an ITU World Championship and FIVE ITU World Cup podiums, his dreams and career are targeted squarely at Tokyo 2020.
-
-## SCHEDULE
-July 14 World Triathlon Hamburg
-
-July 27 World Triathlon Mixed Relay Edmonton
-
-July 29 World Triathlon Edmonton
-
-August 25 World Triathlon Montreal
-
-September 16 ITU Triathlon Grand Final Gold Coast
-
-September 22 Major League Triathlon Tempe Arizona
-
-October 6 Major League Triathlon Charlotte NC
-
-October 14 Sarasota World Cup USA
-
-October 27 Tongyeong World Cup
-
-November 10 Miyazaki World Cup 
 
 ## MANAGEMENT
 ![image](https://user-images.githubusercontent.com/10615650/43430579-4aebf936-942f-11e8-9342-a58c455aca6a.png)
